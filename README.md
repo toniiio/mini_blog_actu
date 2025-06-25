@@ -16,3 +16,7 @@
 - MySQL
 - HTML5 / CSS3
 - Architecture MVC (Modèle – Vue – Contrôleur)
+
+## 💡 Objectif
+
+Ce projet a pour but de proposer une plateforme simple et évolutive pour publier des articles d’actualité, tout en pratiquant le développement PHP orienté MVC avec base de données.
